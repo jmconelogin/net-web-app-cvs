@@ -1,6 +1,6 @@
 accelerator:
-  displayName: New Accelerator
-  description: Generate yaml for a new Accelerator resource.
+  displayName: .Net Web App
+  description: Generate a .Net Web App ready for deployment in CVS Aetna cloud services. Includes - BDD - Unit Tests - Single Sign-on Component - More!
   iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-tanzu-light.png
   tags:
     - Tanzu
