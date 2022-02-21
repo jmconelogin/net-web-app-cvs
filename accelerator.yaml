@@ -3,7 +3,7 @@ accelerator:
   description: Generate a .Net Web App ready for deployment in CVS Aetna cloud services. Includes - BDD - Unit Tests - Single Sign-on Component - More!
   iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-tanzu-light.png
   tags:
-    - Tanzu
+    - .Net
     - Accelerator
   options:
     - name: description
