@@ -3,7 +3,6 @@ accelerator:
   description: Generate a .Net Web App ready for deployment in CVS Aetna cloud services. Includes - BDD - Unit Tests - Single Sign-on Component - More!
   iconUrl: https://github.com/jmconelogin/spring-sql-jpa-cvs/blob/main/logo-edds-red.753d123a.svg
   tags:
-    - .net
     - c#
     - Accelerator
   options:
