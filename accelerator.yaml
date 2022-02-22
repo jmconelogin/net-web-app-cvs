@@ -3,30 +3,25 @@ accelerator:
   description: Generate a PHP Web App ready for deployment in CVS Aetna cloud services. Includes - BDD - Unit Tests - Single Sign-on Component - More!
   iconUrl: https://github.com/jmconelogin/spring-sql-jpa-cvs/blob/main/logo-edds-red.753d123a.svg
   tags:
-    - c#
-    - Accelerator
+    - azure
+    - php
   options:
-    - name: description
-      label: Description
-      display: true
-      defaultValue: ''
-
-    - name: name
-      label: K8s resource name
-      required: true
-
-    - name: url
-      label: Git Repository URL
-      required: true
-
-    - name: branch
-      label: Git Branch
-      required: true
-      defaultValue: main
-
-    - name: icon
-      label: Icon URL
-      defaultValue: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  - name: workspace
+    label: Workspace name
+    display: true
+    defaultValue: "Red"
+  - name: subscription
+    label: Subscription
+    display: true
+    defaultValue: ""
+  - name: resourceGroup
+    label: Resource Group
+    display: true
+    defaultValue: ""
+  - name: location
+    label: Location
+    display: true  
+    defaultValue: ""  
 
 engine:
   merge:
