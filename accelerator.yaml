@@ -1,7 +1,7 @@
 accelerator:
   displayName: CVS PHP Azure App-Service
   description: Generate a PHP Web App ready for deployment in CVS Aetna cloud services. Includes - BDD - Unit Tests - Single Sign-on Component - More!
-  iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png
+  iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   tags:
     - azure
     - php
