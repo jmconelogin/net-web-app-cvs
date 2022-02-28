@@ -5,6 +5,9 @@ accelerator:
   tags:
     - azure
     - php
+    - retail
+    - PBM
+    - HCB
   options:
   - name: workspace
     label: Workspace name
